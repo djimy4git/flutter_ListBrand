@@ -15,3 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_ListBrand
+# GET STARTED : 
+    1- create images folder 
+    2- import car brand images 
+    3- Add in pubspec.yaml folder images 
+        assets:
+            - images
+    4- run > flutter pub get 
+    5- 
